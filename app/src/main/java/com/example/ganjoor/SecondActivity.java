@@ -83,6 +83,7 @@ public class SecondActivity extends AppCompatActivity {
 
 
         BACK.setOnClickListener(new View.OnClickListener() {
+
             @Override
             public void onClick(View view) {
                 finish();
