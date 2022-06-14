@@ -26,6 +26,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="55dp"
+            android:fontFamily="@font/irannas"
             android:textAlignment="center"
             android:textDirection="locale"
             android:textSize="20sp"
@@ -40,6 +41,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="68dp"
 
+            android:fontFamily="@font/irannas"
             android:textAlignment="center"
             android:textColor="#070707"
             android:textDirection="rtl"
@@ -54,8 +56,9 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="32dp"
-            android:text=""
+            android:fontFamily="@font/irannas"
 
+            android:text=""
             android:textAlignment="center"
             android:textColor="#020202"
             android:textDirection="rtl"
@@ -103,6 +106,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="64dp"
 
+            android:fontFamily="@font/irannas"
             android:textAlignment="center"
             android:textColor="#070707"
             android:textDirection="rtl"
